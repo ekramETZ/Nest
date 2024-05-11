@@ -1,5 +1,5 @@
 <p align="center">
-  <b>NestJS CRUD</b>
+  <b>NestJs</b>
 </p>
 
 
